@@ -1,0 +1,4 @@
+*.swo
+.idea/
+*.log
+Thumbs.db
